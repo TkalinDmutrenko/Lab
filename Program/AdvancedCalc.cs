@@ -6,4 +6,9 @@ public class AdvancedCalc : Calculator
     {
         return Math.Log10(num);
     }
+
+    public double FromKilometersToMiles()
+    {
+        return num / 1.609;
+    }
 }

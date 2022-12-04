@@ -13,6 +13,6 @@
 
         advanced.num = 5;
 
-        Console.WriteLine(advanced.Log())
+        Console.WriteLine(advanced.Log());
     }
 }
