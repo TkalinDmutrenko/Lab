@@ -1,4 +1,4 @@
-﻿public class LProgram
+﻿public class Program
 {
     public static void Main()
     {
